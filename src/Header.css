@@ -1,0 +1,22 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: var(--primary-header);
+    padding: 20px;
+  }
+  
+  .header-nav {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .header-title {
+    font-size: 3rem;
+    color: #fff;
+    text-shadow: 2px 2px #000;
+  }
+  
+  .themeSwitcher {
+    cursor: pointer;
+  }
