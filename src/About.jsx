@@ -26,7 +26,7 @@ function About({onNav}){
                 </div>
                 <div className="card">
                     <h3>Pudding</h3>
-                    <img className="img" src="../shorthairLuna.png" alt="the picture of british shorthair breed" />
+                    <img className="img" src="../pudding.png" alt="the picture of british shorthair breed" />
                     <p className="paragraph">
                     Experience the ultimate comfort food with our homemade pudding! Made with rich and creamy ingredients, our pudding comes in a variety of flavors such as chocolate, vanilla, and butterscotch that will transport your taste buds to heaven. Perfect as a dessert or a midday snack, 
                     our pudding is sure to delight your palate. 
